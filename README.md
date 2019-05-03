@@ -2,7 +2,7 @@
 
 ColorPicker By JavaFX2.
 
-Choose a color.
+Choose a color.  
 Process in the following three ways.
 
 * Event Handler ... Execute processing by select a color.
