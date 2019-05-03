@@ -9,4 +9,4 @@ Process in the following three ways.
 * Bind(High-level API) ... It can not use.
 * Bind(Low-level API) ... The color selected in the custom color is reflected in real time.
 
-![javaFX2colorPicker](https://github.com/63rabbits/javaFX2colorPicker/blob/master/javaFX2colorPicker.png)
+![javaFX2colorPicker](/javaFX2colorPicker.png)
