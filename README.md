@@ -1,6 +1,6 @@
 # javaFX2colorPicker
 
-ColorPicker By JavaFX2.
+ColorPicker by JavaFX2.
 
 Choose a color.  
 Process in the following three ways.
